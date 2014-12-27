@@ -154,6 +154,6 @@ static inline QString QVLCUserDir( vlc_userdir_t type )
  * wearing a Father Xmas hat.
  * Note this icon doesn't represent an endorsment of Coca-Cola company.
  */
-#define QT_XMAS_JOKE_DAY 354
+#define QT_XMAS_JOKE_DAY 1
 
 #endif
